@@ -1,0 +1,12 @@
+
+#countdown {
+	position: relative;
+    text-align: center;
+  /* display: inline-block;
+  padding: 5px;    
+  font-family: verdana;
+    font-size: 50px;
+	font-color: #FFFFFF;
+  margin: 0 0 20px; */
+  white-space: nowrap;
+}
